@@ -1,0 +1,6 @@
+{
+  "name": "Vizualizuesi Streamlit",
+  "description": "Një platformë digjitale për të ndërtuar, filtruar dhe vizualizuar të dhëna në kohë reale me gjenerimin e kodit Python për Streamlit Cloud.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
