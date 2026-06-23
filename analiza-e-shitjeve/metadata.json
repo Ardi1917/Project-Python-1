@@ -1,0 +1,6 @@
+{
+  "name": "Analiza e Shitjeve",
+  "description": "Paneli dinamik i analizës së shitjeve në stil Streamlit me filtrim dhe vizualizim në kohë reale.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
